@@ -11,6 +11,6 @@ git clone https://github.com/EleCTus0/P4_machine_learning.git
 cd P4_machine_learning 
 ```
 
-**Etape 1 :** Lancer le notebook : desfossez_rayan_notebook_cleanandeda_112022.ipynb 
-**Etape 2 :** Lancer le notebook : desfossez_rayan_notebook_clustering_11022.ipynb 
-**Etape 3 :** Lancer le notebook : desfossez_rayan_notebook_frequencyupdate_11022.ipynb 
+- **Etape 1 :** Lancer le notebook : desfossez_rayan_notebook_cleanandeda_112022.ipynb 
+- **Etape 2 :** Lancer le notebook : desfossez_rayan_notebook_clustering_11022.ipynb 
+- **Etape 3 :** Lancer le notebook : desfossez_rayan_notebook_frequencyupdate_11022.ipynb 
